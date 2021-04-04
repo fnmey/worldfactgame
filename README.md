@@ -5,6 +5,9 @@ Currently in the first step of extracting information out of JSON-files coming f
 https://github.com/factbook/factbook.json
 
 Next steps:
-/nCreating gameplay
-/nCreating an UI 
-/nImplement a multiplayer option to play local/online with friends
+
+Creating gameplay
+
+Creating an UI 
+
+Implement a multiplayer option to play local/online with friends
